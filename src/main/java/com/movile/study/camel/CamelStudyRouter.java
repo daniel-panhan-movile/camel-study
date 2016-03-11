@@ -1,7 +1,6 @@
 package com.movile.study.camel;
 
 import javax.xml.namespace.QName;
-import javax.xml.ws.Holder;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.Exchange;
